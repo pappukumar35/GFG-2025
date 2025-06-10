@@ -1,2 +1,2 @@
 # GFG-2025
-GeeksForGeeks DSA Problem Solving (Question)
+GeeksForGeeks DSA Problem Solving (Question).
