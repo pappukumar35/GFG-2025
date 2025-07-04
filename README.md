@@ -1,6 +1,6 @@
 # 📚 GeeksforGeeks Daily Problem Solving Tracker – 2025
 
-Track your daily GFG problem-solving progress from **January to December 2025**, organized by **Month → Week → Day**.
+Track your daily GFG problem-solving progress from **January to December 2025**, organized by **Month → Week → Day**..
 
 ---
 
