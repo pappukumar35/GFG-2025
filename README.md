@@ -4,7 +4,7 @@ Track your daily GFG problem-solving progress from **January to December 2025**,
 
 ---
 
-## ✅ Legend
+## ✅ Legend.
 
 | Symbol | Meaning |
 |--------|---------|
