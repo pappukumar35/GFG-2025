@@ -115,7 +115,7 @@ Track your daily GFG problem-solving progress from **January to December 2025**,
 > 📌 **Tip:** Replace `[Problem Title](#)` with actual GFG problem links like  
 > `[Majority Element](https://www.geeksforgeeks.org/majority-element/)`
 
----
+------
 
 ## 🏁 Total Solved Count
 
